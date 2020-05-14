@@ -1,6 +1,6 @@
 ## 区块链项目
 
-###三种语言实现区块链
+### 三种语言实现区块链
 
 [Python教程](https://docs.python.org/zh-cn/3.7/index.html)
 
